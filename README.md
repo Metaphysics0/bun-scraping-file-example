@@ -1,15 +1,14 @@
-# bunproj
+# Bun file scraping!
 
-To install dependencies:
+Make sure you have [bun](https://bun.sh/),
+then run:
 
 ```bash
 bun install
 ```
 
-To run:
+then
 
 ```bash
-bun run index.ts
+bun run scrapeGtdbTones.ts
 ```
-
-This project was created using `bun init` in bun v0.5.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
